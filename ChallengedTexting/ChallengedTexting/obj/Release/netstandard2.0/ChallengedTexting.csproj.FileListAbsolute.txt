@@ -1,0 +1,15 @@
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/bin/Release/netstandard2.0/ChallengedTexting.deps.json
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/bin/Release/netstandard2.0/ChallengedTexting.dll
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/bin/Release/netstandard2.0/ref/ChallengedTexting.dll
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/bin/Release/netstandard2.0/ChallengedTexting.pdb
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ChallengedTexting.AssemblyInfoInputs.cache
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ChallengedTexting.AssemblyInfo.cs
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/XamlC.stamp
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ChallengedTexting.dll
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ref/ChallengedTexting.dll
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ChallengedTexting.pdb
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/NotesPage.xaml.g.cs
+/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting/obj/Release/netstandard2.0/ChallengedTexting.csprojAssemblyReference.cache
