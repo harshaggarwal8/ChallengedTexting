@@ -1,24 +1,27 @@
-2019-09-28 14:12:25.920626-0500 ChallengedTexting.iOS[3121:139714] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3121
-2019-09-28 14:12:25.920902-0500 ChallengedTexting.iOS[3121:139714] SecTaskCopyDebugDescription: ChallengedTextin[3121]/0#-1 LF=0
-2019-09-28 14:12:25.929943-0500 ChallengedTexting.iOS[3121:139728] DEBUG CalabashServer:248 | Creating the server: <LPHTTPServer: 0x6000016f42c0>
-2019-09-28 14:12:25.929 DEBUG CalabashServer:248 | Creating the server: <LPHTTPServer: 0x6000016f42c0>
-2019-09-28 14:12:25.930 DEBUG CalabashServer:249 | Calabash iOS server version: CALABASH VERSION: 0.21.8
-2019-09-28 14:12:25.931530-0500 ChallengedTexting.iOS[3121:139728] DEBUG CalabashServer:249 | Calabash iOS server version: CALABASH VERSION: 0.21.8
-2019-09-28 14:12:25.930 DEBUG CalabashServer:260 | XTC_SKIP_LPSERVER_TOKEN is not defined in enviroment
-2019-09-28 14:12:25.931714-0500 ChallengedTexting.iOS[3121:139730] DEBUG CalabashServer:260 | XTC_SKIP_LPSERVER_TOKEN is not defined in enviroment
-2019-09-28 14:12:25.930 DEBUG CalabashServer:261 | Embedded (linked) Calabash Server was started.
-2019-09-28 14:12:25.931875-0500 ChallengedTexting.iOS[3121:139728] DEBUG CalabashServer:261 | Embedded (linked) Calabash Server was started.
-2019-09-28 14:12:25.930 DEBUG CalabashServer:270 | App Base SDK: iphonesimulator13.0
-2019-09-28 14:12:25.932034-0500 ChallengedTexting.iOS[3121:139730] DEBUG CalabashServer:270 | App Base SDK: iphonesimulator13.0
-2019-09-28 14:12:25.930 DEBUG CalabashServer:302 | IPHONE_SIMULATOR_ROOT: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot
-2019-09-28 14:12:25.932192-0500 ChallengedTexting.iOS[3121:139728] DEBUG CalabashServer:302 | IPHONE_SIMULATOR_ROOT: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot
-2019-09-28 14:12:25.934 DEBUG CalabashServer:288 | Calabash iOS server is listening on: 10.182.249.32 port 37265
-2019-09-28 14:12:25.934604-0500 ChallengedTexting.iOS[3121:139730] DEBUG CalabashServer:288 | Calabash iOS server is listening on: 10.182.249.32 port 37265
-2019-09-28 14:12:25.943 DEBUG LPWKWebViewRuntimeLoader:221 | WKWebView successfully implemented LPWebViewProtocol
-2019-09-28 14:12:25.943635-0500 ChallengedTexting.iOS[3121:139728] DEBUG LPWKWebViewRuntimeLoader:221 | WKWebView successfully implemented LPWebViewProtocol
+2019-09-29 02:08:20.757917-0500 ChallengedTexting.iOS[10410:742341] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=10410
+2019-09-29 02:08:20.758165-0500 ChallengedTexting.iOS[10410:742341] SecTaskCopyDebugDescription: ChallengedTextin[10410]/0#-1 LF=0
+2019-09-29 02:08:20.764018-0500 ChallengedTexting.iOS[10410:742357] DEBUG CalabashServer:248 | Creating the server: <LPHTTPServer: 0x600003d340b0>
+2019-09-29 02:08:20.764 DEBUG CalabashServer:248 | Creating the server: <LPHTTPServer: 0x600003d340b0>
+2019-09-29 02:08:20.764 DEBUG CalabashServer:249 | Calabash iOS server version: CALABASH VERSION: 0.21.8
+2019-09-29 02:08:20.766078-0500 ChallengedTexting.iOS[10410:742357] DEBUG CalabashServer:249 | Calabash iOS server version: CALABASH VERSION: 0.21.8
+2019-09-29 02:08:20.764 DEBUG CalabashServer:260 | XTC_SKIP_LPSERVER_TOKEN is not defined in enviroment
+2019-09-29 02:08:20.766269-0500 ChallengedTexting.iOS[10410:742358] DEBUG CalabashServer:260 | XTC_SKIP_LPSERVER_TOKEN is not defined in enviroment
+2019-09-29 02:08:20.764 DEBUG CalabashServer:261 | Embedded (linked) Calabash Server was started.
+2019-09-29 02:08:20.766428-0500 ChallengedTexting.iOS[10410:742357] DEBUG CalabashServer:261 | Embedded (linked) Calabash Server was started.
+2019-09-29 02:08:20.764 DEBUG CalabashServer:270 | App Base SDK: iphonesimulator13.0
+2019-09-29 02:08:20.766595-0500 ChallengedTexting.iOS[10410:742358] DEBUG CalabashServer:270 | App Base SDK: iphonesimulator13.0
+2019-09-29 02:08:20.764 DEBUG CalabashServer:302 | IPHONE_SIMULATOR_ROOT: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot
+2019-09-29 02:08:20.766772-0500 ChallengedTexting.iOS[10410:742357] DEBUG CalabashServer:302 | IPHONE_SIMULATOR_ROOT: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot
+2019-09-29 02:08:20.765 ERROR CalabashServer:284 | Error starting Calabash HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo={NSLocalizedDescription=Address already in use, NSLocalizedFailureReason=Error in bind() function}
+2019-09-29 02:08:20.766976-0500 ChallengedTexting.iOS[10410:742357] ERROR CalabashServer:284 | Error starting Calabash HTTP Server: Error Domain=NSPOSIXErrorDomain Code=48 "Address already in use" UserInfo={NSLocalizedDescription=Address already in use, NSLocalizedFailureReason=Error in bind() function}
+2019-09-29 02:08:20.772 DEBUG LPWKWebViewRuntimeLoader:221 | WKWebView successfully implemented LPWebViewProtocol
 MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
-2019-09-28 14:12:26.840648-0500 ChallengedTexting.iOS[3121:139714] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3121
-2019-09-28 14:12:26.841190-0500 ChallengedTexting.iOS[3121:139714] SecTaskCopyDebugDescription: ChallengedTextin[3121]/0#-1 LF=0
-2019-09-28 14:12:37.481084-0500 ChallengedTexting.iOS[3121:139714] [unspecified] container_system_group_path_for_identifier: error = (container_error_t)53
-2019-09-28 14:12:37.481280-0500 ChallengedTexting.iOS[3121:139714] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 53
-2019-09-28 14:12:37.481790-0500 ChallengedTexting.iOS[3121:139714] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/harshaggarwal/Library/Developer/CoreSimulator/Devices/F37A9D10-71F8-4EA9-A371-7CB2D66E28DA/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2019-09-29 02:08:20.772512-0500 ChallengedTexting.iOS[10410:742358] DEBUG LPWKWebViewRuntimeLoader:221 | WKWebView successfully implemented LPWebViewProtocol
+2019-09-29 02:08:21.480183-0500 ChallengedTexting.iOS[10410:742341] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=10410
+2019-09-29 02:08:21.480500-0500 ChallengedTexting.iOS[10410:742341] SecTaskCopyDebugDescription: ChallengedTextin[10410]/0#-1 LF=0
+2019-09-29 02:08:22.646481-0500 ChallengedTexting.iOS[10410:742341] [TraitCollection] Class CKBrowserSwitcherViewController overrides the -traitCollection getter, which is not supported. If you're trying to override traits, you must use the appropriate API.
+2019-09-29 02:09:34.953586-0500 ChallengedTexting.iOS[10410:742341] a
+2019-09-29 02:09:40.838454-0500 ChallengedTexting.iOS[10410:742341] ab
+2019-09-29 02:10:19.298176-0500 ChallengedTexting.iOS[10410:742341] n
+2019-09-29 02:10:20.833725-0500 ChallengedTexting.iOS[10410:742341] no
+2019-09-29 02:10:22.537620-0500 ChallengedTexting.iOS[10410:742341] nos

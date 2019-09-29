@@ -44,7 +44,6 @@
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/bin/iPhoneSimulator/Release/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/bin/iPhoneSimulator/Release/Calabash.dll
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/bin/iPhoneSimulator/Release/ChallengedTexting.dll
-/Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/bin/iPhoneSimulator/Release/ChallengedTexting.pdb
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
 /Users/harshaggarwal/Desktop/HackUTA19/ChallengedTexting/ChallengedTexting/ChallengedTexting.iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items

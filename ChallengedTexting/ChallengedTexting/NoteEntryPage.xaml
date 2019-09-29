@@ -4,9 +4,19 @@
              x:Class="ChallengedTexting.NoteEntryPage"
              Title="Note Entry">
     <StackLayout Margin="20">
-        <Editor Placeholder="Enter your note"
-                Text="{Binding Text}"
-                HeightRequest="100" />
+        <!---->
+        <Grid>
+            <Button HorizontalOptions="FillAndExpand"
+HeightRequest="150"
+                    Text = "."
+                    BackgroundColor="AntiqueWhite"
+                    Clicked="OnPress1ButtonClicked"></Button></Grid>
+            <Grid><Button HorizontalOptions="FillAndExpand"
+HeightRequest="150"
+                    Text = "-"
+                    BackgroundColor="AntiqueWhite"
+                    Clicked="OnPress2ButtonClicked"></Button>
+        </Grid>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
@@ -17,6 +27,22 @@
             <Button Grid.Column="1"
                     Text="Delete"
                     Clicked="OnDeleteButtonClicked"/>
+        </Grid>
+        <!--Editor Placeholder="{Binding Text}"
+                Text="{Binding Text}"
+                HeightRequest="100" /-->
+        <Label x:Name="Label_ControlSW" />
+        <Grid>
+            <Button HeightRequest = "120"
+                    Text="Play"
+                    BackgroundColor="AntiqueWhite"
+                    Clicked="OnPlayButtonClicked"/>
+        </Grid>
+        <Grid>
+            <Button HeightRequest = "120"
+                    Text="Next Character"
+                    BackgroundColor="AntiqueWhite"
+                    Clicked="OnNextButtonClicked"/>
         </Grid>
     </StackLayout>
 </ContentPage>

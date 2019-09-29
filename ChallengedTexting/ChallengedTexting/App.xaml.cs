@@ -7,7 +7,7 @@ namespace ChallengedTexting
     public partial class App : Application
     {
         public static string FolderPath { get; private set; }
-
+        //public static string User = "Rendy";
         public App()
         {
             InitializeComponent();
