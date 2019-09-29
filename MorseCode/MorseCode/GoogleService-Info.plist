@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704765875786-22cpsginvl73hta6k0k25qa86t49v17a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704765875786-22cpsginvl73hta6k0k25qa86t49v17a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfMWBZ1SpaoHm8APvE39Gn1WBejwDL3h8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704765875786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rohan.MorseCode</string>
+	<key>PROJECT_ID</key>
+	<string>morsecode-f2d5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>morsecode-f2d5b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704765875786:ios:245879f3958fcc54a738b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://morsecode-f2d5b.firebaseio.com</string>
+</dict>
+</plist>
